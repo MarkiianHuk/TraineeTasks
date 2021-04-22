@@ -1,0 +1,13 @@
+D:\work\projects\TraineeTask\TraineeTask\bin\Debug\netcoreapp3.1\TraineeTask.exe
+D:\work\projects\TraineeTask\TraineeTask\bin\Debug\netcoreapp3.1\TraineeTask.deps.json
+D:\work\projects\TraineeTask\TraineeTask\bin\Debug\netcoreapp3.1\TraineeTask.runtimeconfig.json
+D:\work\projects\TraineeTask\TraineeTask\bin\Debug\netcoreapp3.1\TraineeTask.runtimeconfig.dev.json
+D:\work\projects\TraineeTask\TraineeTask\bin\Debug\netcoreapp3.1\TraineeTask.dll
+D:\work\projects\TraineeTask\TraineeTask\bin\Debug\netcoreapp3.1\TraineeTask.pdb
+D:\work\projects\TraineeTask\TraineeTask\obj\Debug\netcoreapp3.1\TraineeTask.csprojAssemblyReference.cache
+D:\work\projects\TraineeTask\TraineeTask\obj\Debug\netcoreapp3.1\TraineeTask.AssemblyInfoInputs.cache
+D:\work\projects\TraineeTask\TraineeTask\obj\Debug\netcoreapp3.1\TraineeTask.AssemblyInfo.cs
+D:\work\projects\TraineeTask\TraineeTask\obj\Debug\netcoreapp3.1\TraineeTask.csproj.CoreCompileInputs.cache
+D:\work\projects\TraineeTask\TraineeTask\obj\Debug\netcoreapp3.1\TraineeTask.dll
+D:\work\projects\TraineeTask\TraineeTask\obj\Debug\netcoreapp3.1\TraineeTask.pdb
+D:\work\projects\TraineeTask\TraineeTask\obj\Debug\netcoreapp3.1\TraineeTask.genruntimeconfig.cache
